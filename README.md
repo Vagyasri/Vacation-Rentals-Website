@@ -28,7 +28,7 @@
 
 [Live Demo Link](https://vagyasri.github.io/Vacation-Rentals-Website/)
 
-## Author 1
+## Author
 
 👤 **Bhagyashree Patra**
 
