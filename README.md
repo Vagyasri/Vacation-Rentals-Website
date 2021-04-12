@@ -2,7 +2,10 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> In this project, we will build a replica of the Newsweek website.
+> This is a Vacation Rentals Website consisting of 3 interlinked webpages.
+- the main page (search page), with a link to the results page
+- the search results page, with a list of Rentals each with a link to the detail Rental page
+- the detail Rental page
 
 # Screenshot
 
@@ -23,17 +26,9 @@
 
 ## Live Demo
 
-[Live Demo Link](https://vagyasri.github.io/Project3-newsweek/)
+[Live Demo Link](https://vagyasri.github.io/Vacation-Rentals-Website/)
 
 ## Author 1
-
-👤 **Bhagyashree Patra**
-
-- GitHub: [@githubhandle](https://github.com/Vagyasri)
-- Twitter: [@twitterhandle](https://twitter.com/Lucky86074644)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
-
-## Author 2
 
 👤 **Bhagyashree Patra**
 
@@ -45,7 +40,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Vagyasri/Project3-newsweek/issues).
+Feel free to check the [issues page](https://github.com/Vagyasri/Vacation-Rentals-Website/issues), contribute to the Project by creating an issue..
 
 ## Show your support
 
