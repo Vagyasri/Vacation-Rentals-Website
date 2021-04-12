@@ -1,6 +1,31 @@
 :root {
-  --pink: rgb(236, 59, 89);
-  --black: #000;
-  --gray: rgb(167, 165, 172);
-  --white: white;
+  --pink: #ff385c;
+  --gray: #a3a3a3;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.covid-text {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 18px;
+  background-color: #2c2c2c;
+}
+
+.covid-link {
+  color: var(--gray);
+  text-decoration: underline;
+  text-decoration-color: var(--gray);
+}
+
+.covid-link:hover {
+  color: #a3a3a38c;
+  text-decoration: underline;
+  text-decoration-color: #a3a3a38c;
+}
+
+.logo-text {
+  font-size: 26px;
 }
