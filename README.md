@@ -3,9 +3,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 > This is a Vacation Rentals Website consisting of 3 interlinked webpages.
-- the main page (search page), with a link to the results page
-- the search results page, with a list of Rentals each with a link to the detail Rental page
-- the detail Rental page
+>- the main page (search page), with a link to the results page
+>- the search results page, with a list of Rentals each with a link to the detail Rental page
+>- the detail Rental page
 
 # Screenshot
 
